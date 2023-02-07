@@ -1,2 +1,3 @@
 Added a few lines to hello-world.txt
 a new line of content
+new line to test vs code commit editor
